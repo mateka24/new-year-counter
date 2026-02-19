@@ -1,0 +1,18 @@
+# Виртуальное окружение
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Docker
+*.log
